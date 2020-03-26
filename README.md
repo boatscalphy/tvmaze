@@ -1,0 +1,1 @@
+A simple frontend project built on HTML, CSS, Javascript and Bootstrap 4, where users are able to search for a TV show using the TV Maze API and retrieve a list of TV shows and the episodes of the TV shows based off their search term.
